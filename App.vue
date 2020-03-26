@@ -1,7 +1,7 @@
 <template>
   <div id="app">
       <!-- <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link> |
+      <router-link to="/about">About2</router-link> |
       <router-link to="/login" v-if='!isLogin'>Login</router-link>
       <a href="" v-if='isLogin'>Logout</a> -->
       <transition name='route-move'>
