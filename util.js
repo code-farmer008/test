@@ -1,4 +1,4 @@
-export function get({type, avatar}){
+export function get123({type, avatar}){
 	// 根据用户信息 返回跳转地址
 	// user.type /boss /genius
 	// user.avatar /bossinfo /geniusinfo 
@@ -12,3 +12,5 @@ export function get({type, avatar}){
 export function getChatId(userId, targetId){
 	return [userId, targetId].sort().join('_')
 }
+
+'dfdfdfkjdfkdjfdk'
