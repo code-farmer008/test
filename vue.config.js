@@ -2,7 +2,7 @@ module.exports = {
   css: {
     loaderOptions: {
       stylus: {
-        'resolve url': '313',
+        'resolve url': '1111',
         'import': [
           './src/theme'
         ]
